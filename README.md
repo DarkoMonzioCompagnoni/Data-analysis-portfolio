@@ -14,8 +14,13 @@ This repository serves as a way to track my progress in Data Analytics and Data 
 
 ## Table of content
 
-**Crypto DCA dashboard**
-Thi project originates frm the
+SQL projects
+Spreadsheets projects
+Qlik projects
+Tableau projects
+
+## Table of content
+
  
 - UvA python project
 - Alan's file (update name)
