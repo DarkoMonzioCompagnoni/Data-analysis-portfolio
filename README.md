@@ -21,8 +21,8 @@ This repository serves as a way to track my progress in Data Analytics and Data 
 - [Certifications](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#certifications)
 - [Contacts](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#contacts)
 
-## Spreadsheets projects 
-### When Was the Golden Age of Video Games?
+### Spreadsheets projects 
+#### Tracking a long-term crypto investment 
 
 **Dashboard:** 
 
@@ -30,22 +30,35 @@ This repository serves as a way to track my progress in Data Analytics and Data 
 
 
 **Skills** Data cleaning, Data visualization
-**Formulas** SUMIF(), nested IF(), GOOGLEFINANCE(), 
+
+**Formulas** SUMIF(), nested IF(), GOOGLEFINANCE() 
 
 ## SQL projects 
 
-### When Was the Golden Age of Video Games?
+#### When Was the Golden Age of Video Games?
 
 **Notebook:** 
 
 **Description**
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
+
 **Skills** Joining datasets; Filter, group, and order data.
 
 
 ### Qlik projects
 
 ### Tableau projects
+
+## Certificates
+- [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) (Jan 2023, Growth Tribe)
+- [Intermediate Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/track/d42f7d9284066202596921cd24d067e3c72f284e) (Nov 2022, DataCamp)
+- [Digital Marketing](https://certificates.growthtribe.io/en/verify/87676172970004?ref) (Oct 2022, Growth Tribe)
+- [Sprinklr Research Analyst Pro](https://university.sprinklr.com/certificate?id=b143244f-f484-45e4-a331-f25b5536d8a1) (Nov 2021, Sprinklr University)
+- [Sprinklr Product Analyst Pro](https://university.sprinklr.com/certificate?id=a152072c-d1af-49a2-8663-c0843c19bbd4) (Nov 2021, Sprinklr University)
+- [Social Media Data Analytics](https://www.coursera.org/account/accomplishments/certificate/XJMSHEZ3AYVX) (Jun 2021, Coursera - University of Washington)
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/FqJik5TITyCjbgkcArEEYg) (Aug 2020, Google Digital Academy)
+
+
 
 
 
