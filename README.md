@@ -1,16 +1,13 @@
 # Darko Monzio Compagnoni - Data Analysis Portfolio
 
-*Last updated: 09 Feb 2023*
-
-#### My CV in [PDF](https://drive.google.com/file/d/1gdGzW5rPe_G0jozQjk1jxWq6oPclBaLA/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1gdGzW5rPe_G0jozQjk1jxWq6oPclBaLA/view?usp=sharing)
 
 ## About
 
-Hi! I am Darko. Welcome to my Data Analysis Portfolio. 
+Hi! I am Darko. Welcome to my Data Analysis Portfolio. This repository serves as a way to track my progress in Data Analytics and Data Science-related topics.
 
-My experience in marketing has provided me with a deep understanding of how to leverage data to drive results. I have now decided to make of data analysis my job. I am eager to bring my unique perspective to a data-driven team and help organizations make better decisions with data.
+My experience in marketing has provided me with a deep understanding of how to leverage data to drive results. I am eager to bring my unique perspective to a data-driven team and help organizations make better decisions with data.
 
-This repository serves as a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## Table of content
 
@@ -21,33 +18,43 @@ This repository serves as a way to track my progress in Data Analytics and Data 
 - [Certifications](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#certifications)
 - [Contacts](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#contacts)
 
-### Spreadsheets projects 
-#### Tracking a long-term crypto investment 
+## Spreadsheets projects 
 
-**Dashboard:** 
+### Cryptocurrency portfolio analysis 
+I created this dashboard from a 3500+ rows dataset of all transactions downloaded from the crypto exchange platform [Nexo](https://nexo.io/).
+The dashboard allows to visualize the owned coins, the amount paid for them, and the current vale pulling live prices from the web.
 
-**Description**
+It's also possible to select the currency between Euro and US Dollar using the dropdown list at the top.
+
+[https://drive.google.com/file/d/1qW8lwlHrQ9KC4c_el-zKfO1ludktRxT7/view?usp=sharing]
 
 
 **Skills** Data cleaning, Data visualization
 
-**Formulas** SUMIF(), nested IF(), GOOGLEFINANCE() 
 
 ## SQL projects 
 
-#### When Was the Golden Age of Video Games?
+### When Was the Golden Age of Video Games?
+In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 
 **Notebook:** 
 
-**Description**
-In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
-
 **Skills** Joining datasets; Filter, group, and order data.
 
+### American Baby Name Trends Analysis
+In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
 
-### Qlik projects
+**Notebook:** 
 
-### Tableau projects
+
+**Skills**: Ranking, Grouping, Joining, Ordering, and Pattern matching 
+
+
+## Qlik projects
+### Organic social dashboard
+
+## Tableau projects
+### COVID-19 vaccination performance https://www.youtube.com/watch?v=g6cjhUhrhY8
 
 ## Certificates
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) (Jan 2023, Growth Tribe)
