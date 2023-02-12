@@ -49,6 +49,7 @@ In this project, I used data published by the U.S. Social Security Administratio
 
 **Skills**: Ranking, Grouping, Joining, Ordering, and Pattern matching 
 
+### Analyze International Debt Statistics
 
 ## Qlik projects
 ### Organic social dashboard
