@@ -37,19 +37,32 @@ It's also possible to select the currency between Euro and US Dollar using the d
 ### When Was the Golden Age of Video Games?
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 
-**Notebook:** 
+
+**Dataset:**
+
+**Notebook:**
+
 
 **Skills** Joining datasets; Filter, group, and order data.
 
 ### American Baby Name Trends Analysis
 In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
 
-**Notebook:** 
+**Dataset:**
+
+**Notebook:**
 
 
 **Skills**: Ranking, Grouping, Joining, Ordering, and Pattern matching 
 
 ### Analyze International Debt Statistics
+In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
+
+
+**Dataset:**
+
+**Notebook:**
+
 
 ## Qlik projects
 ### Organic social dashboard
