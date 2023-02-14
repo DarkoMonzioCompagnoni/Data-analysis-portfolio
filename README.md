@@ -34,21 +34,18 @@ It's also possible to select the currency between Euro and US Dollar using the d
 
 ## SQL projects 
 
+[Here, all the datasets](https://github.com/DarkoMonzioCompagnoni/datasets)
+
 ### When Was the Golden Age of Video Games?
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 
-
-**Dataset:** 
-
 **Notebook:** [videogames_goldenage.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/5b788befc09ee9ad40e90834532d5c9fca7967a0/videogames_goldenage.ipynb)
-
 
 **Skills** Joining datasets; Filter, group, and order data.
 
 ### American Baby Name Trends Analysis
 In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
 
-**Dataset:**
 
 **Notebook:**
 
@@ -57,9 +54,6 @@ In this project, I used data published by the U.S. Social Security Administratio
 
 ### Analyze International Debt Statistics
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
-
-
-**Dataset:** [international_debt.csv](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/28e203795f7da91761b900c0251ee29c659dcac7/international_debt.csv)
 
 **Notebook:** [international_debt.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/28e203795f7da91761b900c0251ee29c659dcac7/international_debt.ipynb)
  
