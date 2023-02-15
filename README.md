@@ -33,23 +33,17 @@ It's also possible to select the currency between Euro and US Dollar using the d
 
 ## SQL projects 
 
-[Here, all the datasets](https://github.com/DarkoMonzioCompagnoni/datasets)
+Find all the datasets [here](https://github.com/DarkoMonzioCompagnoni/datasets).
 
 ### When Was the Golden Age of Video Games?
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 
 **Notebook:** [videogames_goldenage.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/5b788befc09ee9ad40e90834532d5c9fca7967a0/videogames_goldenage.ipynb)
 
-**Skills** Joining datasets; Filter, group, and order data.
-
 ### American Baby Name Trends Analysis
 In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
 
-
 **Notebook:**
-
-
-**Skills**: Ranking, Grouping, Joining, Ordering, and Pattern matching 
 
 ### Analyze International Debt Statistics
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
@@ -59,9 +53,9 @@ In this project, I analyzed international debt data collected by The World Bank.
 ### What and Where are the World's Oldest Businesses
 In this project, I explored data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded and which industries they belong to.
 
-Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
+The data is contained in several different datasets. In order to understand the world's oldest businesses, I needed to use joining techniques to merge our data. From there, I used manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
-**Notebook:** 
+**Notebook:** [oldest_businesses.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/oldest_businesses.ipynb)
 
 ## Qlik projects
 ### Organic social dashboard
