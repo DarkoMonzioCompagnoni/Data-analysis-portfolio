@@ -21,8 +21,11 @@ My experience in marketing has provided me with a deep understanding of how to l
 ## Spreadsheets projects 
 
 ### Cryptocurrency portfolio analysis 
+
 I created this dashboard from a 3500+ rows dataset of all transactions downloaded from the crypto exchange platform [Nexo](https://nexo.io/).
 The dashboard allows to visualize the owned coins, the amount paid for them, and the current vale pulling live prices from the web.
+
+<img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" />
 
 It's also possible to select the currency between Euro and US Dollar using the dropdown list at the top.
 
