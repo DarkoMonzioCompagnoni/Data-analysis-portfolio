@@ -28,7 +28,6 @@ It's also possible to select the currency between Euro and US Dollar using the d
 
 [https://drive.google.com/file/d/1qW8lwlHrQ9KC4c_el-zKfO1ludktRxT7/view?usp=sharing]
 
-
 **Skills** Data cleaning, Data visualization
 
 
@@ -55,8 +54,14 @@ In this project, I used data published by the U.S. Social Security Administratio
 ### Analyze International Debt Statistics
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
 
-**Notebook:** [international_debt.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/28e203795f7da91761b900c0251ee29c659dcac7/international_debt.ipynb)
- 
+**Notebook:** [international_debt.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/28e203795f7da91761b900c0251ee29c659dcac7/international_debt.ipynb) 
+
+### What and Where are the World's Oldest Businesses
+In this project, I explored data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded and which industries they belong to.
+
+Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
+
+**Notebook:** 
 
 ## Qlik projects
 ### Organic social dashboard
