@@ -11,8 +11,8 @@ My experience in marketing has provided me with a deep understanding of how to l
 
 ## Table of content
 
-- [Spreadsheets projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/main/README.md#spreadsheets-projects)
-- [SQL projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/main/README.md#sql-projects)
+- [Spreadsheets projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#spreadsheets-projects)
+- [SQL projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#sql-projects)
 - [Qlik projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#qlik-projects)
 - [Tableau projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#tableau-projects)
 - [Certifications](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#certifications)
