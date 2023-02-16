@@ -11,12 +11,12 @@ My experience in marketing has provided me with a deep understanding of how to l
 
 ## Table of content
 
-- [Spreadsheets projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#spreadsheets-projects)
-- [SQL projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#sql-projects)
-- [Qlik projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#qlik-projects)
-- [Tableau projects](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#tableau-projects)
-- [Certifications](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#certifications)
-- [Contacts](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/edit/main/README.md#contacts)
+- [Spreadsheets projects](#spreadsheets-projects)
+- [SQL projects](#sql-projects)
+- [Qlik projects](#qlik-projects)
+- [Tableau projects](#tableau-projects)
+- [Certifications](#certifications)
+- [Contacts](#contacts)
 
 ## Spreadsheets projects 
 
