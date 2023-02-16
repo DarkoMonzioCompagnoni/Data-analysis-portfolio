@@ -70,7 +70,7 @@ In the second sheet, **Post Performance**, the focus shifts from the page follow
 
 ## Tableau projects
 
-### COVID-19 vaccination performance https://www.youtube.com/watch?v=g6cjhUhrhY8
+### COVID-19 vaccination performance (WIP)
 
 ## Certificates
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) (Jan 2023, Growth Tribe)
