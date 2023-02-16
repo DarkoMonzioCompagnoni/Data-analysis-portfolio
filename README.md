@@ -1,13 +1,12 @@
 # Darko Monzio Compagnoni - Data Analysis Portfolio
 
-My [CV](https://docs.google.com/document/d/1lx3Q6vZcyxcJU4NYulYl3BNuJZNsLLN3cVXksCO4pEM/edit?usp=sharing)
-
 ## About
 
 Hi! I am Darko. Welcome to my Data Analysis Portfolio. This repository serves as a way to track my progress in Data Analytics and Data Science-related topics.
 
 My experience in marketing has provided me with a deep understanding of how to leverage data to drive results. I am eager to bring my perspective to data-driven teams and help organizations make better decisions with data.
 
+Here's my [CV](https://docs.google.com/document/d/1lx3Q6vZcyxcJU4NYulYl3BNuJZNsLLN3cVXksCO4pEM/edit?usp=sharing).
 
 ## Table of content
 
