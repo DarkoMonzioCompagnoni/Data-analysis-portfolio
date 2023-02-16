@@ -1,6 +1,6 @@
 # Darko Monzio Compagnoni - Data Analysis Portfolio
 
-[CV](https://drive.google.com/file/d/1gdGzW5rPe_G0jozQjk1jxWq6oPclBaLA/view?usp=sharing)
+[CV](https://docs.google.com/document/d/1lx3Q6vZcyxcJU4NYulYl3BNuJZNsLLN3cVXksCO4pEM/edit?usp=sharing)
 
 ## About
 
@@ -26,16 +26,14 @@ I created [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_t
 
 It's possible to read the amount of each owned coin, its real-time value, the amount paid, and the current value. The Earn/loss columns calculates the status of the investment. 
 
-The doughnut charts show the allocation of the crypto portfolio both toCurrency can be changed between Euro and US Dollar, using the dropdown list in the top left-hand corner.
+The doughnut charts show the coin allocation of the crypto portfolio and provide insights on whether and how to rebalance the portfolio allocation. Being the value of cryptocurrencies highly volatile, knowing if a coin is taking a *slice bigger than it should* tells it might be time to sell and profit. Currency can be changed between Euro and US Dollar, using the dropdown list in the top left-hand corner.
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" align="centre" /> </p>
 
 
-
-
 ## SQL projects 
 
-Find all the datasets [here](https://github.com/DarkoMonzioCompagnoni/datasets).
+Find all the raw datasets[here](https://github.com/DarkoMonzioCompagnoni/datasets).
 
 ### When Was the Golden Age of Video Games?
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
@@ -71,7 +69,7 @@ The first sheet, **LinkedIn dashboard**, shows the followers growth of the Produ
 
 In the second sheet, **Post performance**, the focus moves from the audience to the posts published from the page. From the line chart, I learned that posting too frequently resulted in lower impressions for each post and adjusted the strategy accordingly. The bar charts at the bottom of the sheet give information on the type of media with the post and the average impressions for each type of media. 
 
-Thanks to these insights, I improved the LinkedIn strategy by prioritizing posts with videos and polls. 
+Thanks to these insights, I could improve the LinkedIn strategy by prioritizing posts with videos and polls. 
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20Post%20performance%20screenshot.png" width="1000" height="450" /> </p>
 
