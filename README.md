@@ -40,7 +40,7 @@ In this project, I analyzed video game critic and user scores as well as sales d
 ### American Baby Name Trends Analysis
 In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
 
-**Notebook:**
+**Notebook:** [american_baby_names.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/american_baby_names.ipynb)
 
 ### Analyze International Debt Statistics
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
