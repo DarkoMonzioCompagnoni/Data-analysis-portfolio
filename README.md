@@ -15,7 +15,7 @@ My experience in marketing has provided me with a deep understanding of how to l
 - [SQL projects](#sql-projects)
 - [Qlik projects](#qlik-projects)
 - [Tableau projects](#tableau-projects)
-- [Certifications](#certifications)
+- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Spreadsheets projects 
@@ -69,7 +69,7 @@ In the second sheet, **Post Performance**, the focus shifts from the page follow
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20Post%20performance%20screenshot.png" width="1000" height="450" /> </p>
 
-## Tableau projects (update)
+## Tableau projects
 
 ### COVID-19 vaccination performance https://www.youtube.com/watch?v=g6cjhUhrhY8
 
