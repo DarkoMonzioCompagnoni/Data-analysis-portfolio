@@ -57,9 +57,11 @@ The data is contained in several different datasets. In order to understand the 
 **Notebook:** [oldest_businesses.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/oldest_businesses.ipynb)
 
 ## Qlik projects
+
 ### Organic social dashboard
 
 ## Tableau projects
+
 ### COVID-19 vaccination performance https://www.youtube.com/watch?v=g6cjhUhrhY8
 
 ## Certificates
