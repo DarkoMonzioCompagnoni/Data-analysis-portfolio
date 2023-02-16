@@ -56,11 +56,12 @@ The data is contained in several different datasets. In order to understand the 
 
 **Notebook:** [oldest_businesses.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/oldest_businesses.ipynb)
 
-## Qlik projects
+## Qlik projects (update) 
 
 ### Organic social dashboard
 
-## Tableau projects
+
+## Tableau projects (update)
 
 ### COVID-19 vaccination performance https://www.youtube.com/watch?v=g6cjhUhrhY8
 
@@ -74,6 +75,11 @@ The data is contained in several different datasets. In order to understand the 
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/FqJik5TITyCjbgkcArEEYg) (Aug 2020, Google Digital Academy)
 
 
+## Contacts
+
+LinkedIn profile: https://www.linkedin.com/in/darko-monziocompagnoni/
+
+Email: darko.monzio.com@gmail.com
 
 
 
