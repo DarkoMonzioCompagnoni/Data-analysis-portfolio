@@ -22,13 +22,11 @@ My experience in marketing has provided me with a deep understanding of how to l
 
 ### Cryptocurrency portfolio analysis 
 
-I created [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) from a 3500+ rows dataset of all transactions of 2022, downloaded from the crypto exchange platform [Nexo](https://nexo.io/). This dashboard is useful to track the value of a investment using the DCA (Dollar Cost Averaging) technique. 
-
-It's possible to read the amount of each owned coin, its real-time value, the amount paid, and the current value. The Earn/loss columns calculates the status of the investment. 
-
-The doughnut charts show the coin allocation of the crypto portfolio and provide insights on whether and how to rebalance the portfolio allocation. Being the value of cryptocurrencies highly volatile, knowing if a coin is taking a *slice bigger than it should* tells it might be time to sell and profit. Currency can be changed between Euro and US Dollar, using the dropdown list in the top left-hand corner.
+I designed [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) to track the value of my crypto investments using the DCA (Dollar Cost Averaging) technique. It contains a 3500+ rows dataset of all transactions of 2022, downloaded from the crypto exchange platform [Nexo](https://nexo.io/). For each owned coin, I can track its amount and value, the real-time value of that coin, and the total amount paid for it. The Earn/Loss columns calculate the status of your investment.
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" align="centre" /> </p>
+
+The doughnut charts show the coin allocation of your crypto portfolio and can provide valuable insights on whether and how to rebalance the portfolio allocation. Knowing if a coin is taking a slice bigger than it should can help you decide if it might be time to sell and profit. The currency can also be changed between Euro and US Dollar with the dropdown list in the top left-hand corner. 
 
 
 ## SQL projects 
@@ -61,15 +59,13 @@ The data is contained in several different datasets. In order to understand the 
 
 ### LinkedIn performance dashboard
 
-I created this Qlik app starting from data downloaded from the [Productsup LinkedIn page](https://www.linkedin.com/company/productsup/), which I am admin of. Data were relative to the year 2022. Both sheets allow for the date range to be changed and update the charts automatically.
+I created this Qlik using data from the [Productsup LinkedIn page](https://www.linkedin.com/company/productsup/), which I am the administrator of. The data was relative to the year 2022, and both sheets allow for the date range to be changed and have the charts automatically update accordingly.
 
-The first sheet, **LinkedIn dashboard**, shows the followers growth of the Productsup page and brand awareness metrics such as *Page views* and  *Impressions. From this sheeet, it's possible to see the number of followers by location, job function, industry, company size, and seniority. These audience insights not only tracked the page growth over time, but also helped improving the social media strategy in terms of messaging and posting time.
+The first sheet, the LinkedIn Dashboard, shows the followers growth of the Productsup page as well as various brand awareness metrics, such as *Page Views* and *Impressions*. This sheet reveals valuable insights about the page's followers, including their location, job function, industry, company size, and seniority. By tracking the page growth over time and analyzing the data, it becomes easier to strategize the messaging and timing of posts in order to maximize the page's reach and improve engagement.
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20LinkedIn%20followers%20screenshot.png" width="1000" height="450" /> </p>
 
-In the second sheet, **Post performance**, the focus moves from the audience to the posts published from the page. From the line chart, I learned that posting too frequently resulted in lower impressions for each post and adjusted the strategy accordingly. The bar charts at the bottom of the sheet give information on the type of media with the post and the average impressions for each type of media. 
-
-Thanks to these insights, I could improve the LinkedIn strategy by prioritizing posts with videos and polls. 
+In the second sheet, **Post Performance**, the focus shifts from the page followers to the posts published from the page. After studying the line chart, I realized that posting too frequently resulted in lower impressions for each post and quickly adjusted my strategy. The bar charts at the bottom of the sheet gave me the insight that posts with videos and polls received higher average impressions, which I leveraged to optimize the LinkedIn strategy. Not only did I reduce the frequency of posts, but I also made sure to include more videos and polls to maximize the post impressions.
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20Post%20performance%20screenshot.png" width="1000" height="450" /> </p>
 
