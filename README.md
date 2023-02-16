@@ -56,10 +56,19 @@ The data is contained in several different datasets. In order to understand the 
 
 **Notebook:** [oldest_businesses.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/oldest_businesses.ipynb)
 
-## Qlik projects (update) 
+## Qlik projects
 
-### Organic social dashboard
+### LinkedIn performance dashboard
 
+I created this Qlik app starting from data downloaded from the [Productsup LinkedIn page](https://www.linkedin.com/company/productsup/), which I am admin of. Data were relative to the year 2022. Both sheets allow for the date range to be changed and update the charts automatically.
+
+The first sheet, **LinkedIn dashboard**, shows the followers growth of the Productsup page and brand awareness metrics such as *Page views* and  *Impressions. From this sheeet, it's possible to see the number of followers by location, job function, industry, company size, and seniority. These audience insights not only tracked the page growth over time, but also helped improving the social media strategy in terms of messaging and posting time.
+
+<img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20LinkedIn%20followers%20screenshot.png" width="1000" height="400" />
+
+In the second sheet, **Post performance**, the focus moves from the audience to the posts published from the page. From the line chart, I learned that posting too frequently resulted in lower impressions for each post and adjusted the strategy accordingly. The bar charts at the bottom of the sheet give information on the type of media with the post and the average impressions for each type of media. In 2023, I decided to prioritize videos and polls. 
+
+<img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20Post%20performance%20screenshot.png" width="1000" height="400" />
 
 ## Tableau projects (update)
 
