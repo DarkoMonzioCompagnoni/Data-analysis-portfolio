@@ -1,6 +1,6 @@
 # Darko Monzio Compagnoni - Data Analysis Portfolio
 
-[CV](https://docs.google.com/document/d/1lx3Q6vZcyxcJU4NYulYl3BNuJZNsLLN3cVXksCO4pEM/edit?usp=sharing)
+My [CV](https://docs.google.com/document/d/1lx3Q6vZcyxcJU4NYulYl3BNuJZNsLLN3cVXksCO4pEM/edit?usp=sharing)
 
 ## About
 
@@ -31,7 +31,7 @@ The doughnut charts show the coin allocation of your crypto portfolio and can pr
 
 ## SQL projects 
 
-Find all the raw datasets[here](https://github.com/DarkoMonzioCompagnoni/datasets).
+Find all the raw datasets [here](https://github.com/DarkoMonzioCompagnoni/datasets).
 
 ### When Was the Golden Age of Video Games?
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
