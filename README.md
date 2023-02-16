@@ -6,7 +6,7 @@
 
 Hi! I am Darko. Welcome to my Data Analysis Portfolio. This repository serves as a way to track my progress in Data Analytics and Data Science-related topics.
 
-My experience in marketing has provided me with a deep understanding of how to leverage data to drive results. I am eager to bring my unique perspective to a data-driven team and help organizations make better decisions with data.
+My experience in marketing has provided me with a deep understanding of how to leverage data to drive results. I am eager to bring my perspective to data-driven teams and help organizations make better decisions with data.
 
 
 ## Table of content
@@ -28,10 +28,6 @@ The dashboard allows to visualize the owned coins, the amount paid for them, and
 <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" />
 
 It's also possible to select the currency between Euro and US Dollar using the dropdown list at the top.
-
-[https://drive.google.com/file/d/1qW8lwlHrQ9KC4c_el-zKfO1ludktRxT7/view?usp=sharing]
-
-**Skills** Data cleaning, Data visualization
 
 
 ## SQL projects 
