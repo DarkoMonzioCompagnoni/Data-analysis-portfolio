@@ -22,12 +22,15 @@ My experience in marketing has provided me with a deep understanding of how to l
 
 ### Cryptocurrency portfolio analysis 
 
-I created [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) from a 3500+ rows dataset of all transactions downloaded from the crypto exchange platform [Nexo](https://nexo.io/).
-The dashboard allows to visualize the owned coins, the amount paid for them, and the current vale pulling live prices from the web.
+I created [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) from a 3500+ rows dataset of all transactions of 2022, downloaded from the crypto exchange platform [Nexo](https://nexo.io/). This dashboard is useful to track the value of a investment using the DCA (Dollar Cost Averaging) technique. 
 
-<img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" />
+It's possible to read the amount of each owned coin, its real-time value, the amount paid, and the current value. The Earn/loss columns calculates the status of the investment. 
 
-It's also possible to select the currency between Euro and US Dollar using the dropdown list at the top.
+The doughnut charts show the allocation of the crypto portfolio both toCurrency can be changed between Euro and US Dollar, using the dropdown list in the top left-hand corner.
+
+<p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" align="centre" /> </p>
+
+
 
 
 ## SQL projects 
@@ -64,11 +67,13 @@ I created this Qlik app starting from data downloaded from the [Productsup Linke
 
 The first sheet, **LinkedIn dashboard**, shows the followers growth of the Productsup page and brand awareness metrics such as *Page views* and  *Impressions. From this sheeet, it's possible to see the number of followers by location, job function, industry, company size, and seniority. These audience insights not only tracked the page growth over time, but also helped improving the social media strategy in terms of messaging and posting time.
 
-<img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20LinkedIn%20followers%20screenshot.png" width="1000" height="400" />
+<p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20LinkedIn%20followers%20screenshot.png" width="1000" height="450" /> </p>
 
-In the second sheet, **Post performance**, the focus moves from the audience to the posts published from the page. From the line chart, I learned that posting too frequently resulted in lower impressions for each post and adjusted the strategy accordingly. The bar charts at the bottom of the sheet give information on the type of media with the post and the average impressions for each type of media. In 2023, I decided to prioritize videos and polls. 
+In the second sheet, **Post performance**, the focus moves from the audience to the posts published from the page. From the line chart, I learned that posting too frequently resulted in lower impressions for each post and adjusted the strategy accordingly. The bar charts at the bottom of the sheet give information on the type of media with the post and the average impressions for each type of media. 
 
-<img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20Post%20performance%20screenshot.png" width="1000" height="400" />
+Thanks to these insights, I improved the LinkedIn strategy by prioritizing posts with videos and polls. 
+
+<p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/Qlik%20-%20Post%20performance%20screenshot.png" width="1000" height="450" /> </p>
 
 ## Tableau projects (update)
 
