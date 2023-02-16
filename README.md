@@ -22,7 +22,7 @@ My experience in marketing has provided me with a deep understanding of how to l
 
 ### Cryptocurrency portfolio analysis 
 
-I created this dashboard from a 3500+ rows dataset of all transactions downloaded from the crypto exchange platform [Nexo](https://nexo.io/).
+I created [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) from a 3500+ rows dataset of all transactions downloaded from the crypto exchange platform [Nexo](https://nexo.io/).
 The dashboard allows to visualize the owned coins, the amount paid for them, and the current vale pulling live prices from the web.
 
 <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" />
