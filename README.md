@@ -33,9 +33,9 @@ The doughnut charts show the coin allocation of your crypto portfolio and can pr
 Find all the raw datasets [here](https://github.com/DarkoMonzioCompagnoni/datasets).
 
 ### Optimizing online sports retail revenue
+In this project I analyzed product data for an online sports retail company. I worked with numeric, string, and timestamp data on pricing and revenue, ratings, reviews, descriptions, and website traffic. I used aggregation, cleaning, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue. 
 
-
-Notebook: 
+Notebook: [sports_retail_revenue.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/sports_retail_revenue.ipynb)
 
 ### The Golden Age of video games
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
