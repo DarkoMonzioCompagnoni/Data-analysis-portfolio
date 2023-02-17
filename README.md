@@ -35,24 +35,24 @@ Find all the raw datasets [here](https://github.com/DarkoMonzioCompagnoni/datase
 ### When Was the Golden Age of Video Games?
 In this project, I analyzed video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 
-**Notebook:** [videogames_goldenage.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/5b788befc09ee9ad40e90834532d5c9fca7967a0/videogames_goldenage.ipynb)
+Notebook: [videogames_goldenage.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/5b788befc09ee9ad40e90834532d5c9fca7967a0/videogames_goldenage.ipynb)
 
 ### American Baby Name Trends Analysis
 In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes.
 
-**Notebook:** [american_baby_names.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/american_baby_names.ipynb)
+Notebook: [american_baby_names.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/american_baby_names.ipynb)
 
 ### Analyze International Debt Statistics
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
 
-**Notebook:** [international_debt.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/28e203795f7da91761b900c0251ee29c659dcac7/international_debt.ipynb) 
+Notebook: [international_debt.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/28e203795f7da91761b900c0251ee29c659dcac7/international_debt.ipynb) 
 
 ### What and Where are the World's Oldest Businesses
 In this project, I explored data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded and which industries they belong to.
 
 The data is contained in several different datasets. In order to understand the world's oldest businesses, I needed to use joining techniques to merge our data. From there, I used manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
-**Notebook:** [oldest_businesses.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/oldest_businesses.ipynb)
+Notebook: [oldest_businesses.ipynb](https://github.com/DarkoMonzioCompagnoni/Data-analysis-portfolio/blob/main/oldest_businesses.ipynb)
 
 ## Qlik projects
 
