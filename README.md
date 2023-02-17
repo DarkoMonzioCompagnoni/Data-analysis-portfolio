@@ -21,7 +21,7 @@ Here's my [CV](https://docs.google.com/document/d/1lx3Q6vZcyxcJU4NYulYl3BNuJZNsL
 
 ### Cryptocurrency portfolio analysis 
 
-I designed [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) to track the value of my crypto investments using the DCA (Dollar Cost Averaging) technique. It contains a 3500+ rows dataset of all transactions of 2022, downloaded from the crypto exchange platform [Nexo](https://nexo.io/). For each owned coin, I can track its amount and value, the real-time value of that coin, and the total amount paid for it. The Earn/Loss columns calculate the status of your investment.
+I designed [this dashboard](https://docs.google.com/spreadsheets/d/1mAE5dSX0QiT_tyJR5I4a7vBkPESuCYhnAPyXO0oS-UM/edit?usp=sharing) to track the value of my crypto investments using the DCA (Dollar Cost Averaging) technique. It contains a 3500+ rows dataset of all transactions of 2022, downloaded from the crypto exchange platform [Nexo](https://nexo.io/). For each owned coin, I can track its amount and value, the real-time value of that coin, and the total amount paid for it. The Earn/Loss columns calculate the status of the investment.
 
 <p align="center"> <img src="https://github.com/DarkoMonzioCompagnoni/images/blob/main/crypto%20dashboard%20screenshot.png" width="500" height="500" align="centre" /> </p>
 
