@@ -77,7 +77,6 @@ In the second sheet, **Post Performance**, the focus shifts from the page follow
 
 ### COVID-19 vaccination performance (WIP)
 
-https://public.tableau.com/views/Covidvaccineproject/GlobalVaccineTracker?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Certificates
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) (Jan 2023, Growth Tribe)
