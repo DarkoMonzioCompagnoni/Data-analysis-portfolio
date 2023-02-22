@@ -75,7 +75,7 @@ In the second sheet, **Post Performance**, the focus shifts from the page follow
 
 ## Tableau projects
 
-### COVID-19 vaccination performance (WIP)
+### [Global COVID-19 Vaccine tracker](https://public.tableau.com/app/profile/darko.monzio.compagnoni/viz/GlobalVaccineTracker_16769129966350/GlobalVaccineTracker) 
 
 
 ## Certificates
