@@ -75,8 +75,11 @@ In the second sheet, **Post Performance**, the focus shifts from the page follow
 
 ## Tableau projects
 
-### [Global COVID-19 Vaccine tracker](https://public.tableau.com/app/profile/darko.monzio.compagnoni/viz/GlobalVaccineTracker_16769129966350/GlobalVaccineTracker) 
+### Global COVID-19 Vaccine tracker
 
+[Interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/darko.monzio.compagnoni/viz/GlobalVaccineTracker_16769129966350/GlobalVaccineTracker) 
+
+<div class='tableauPlaceholder' id='viz1677158664105' style='position: relative'><noscript><a href='#'><img alt='Global Vaccine Tracker ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalVaccineTracker_16769129966350&#47;GlobalVaccineTracker&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalVaccineTracker_16769129966350&#47;GlobalVaccineTracker' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalVaccineTracker_16769129966350&#47;GlobalVaccineTracker&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>             
 
 ## Certificates
 - [Growth Marketing](https://certificates.growthtribe.io/en/verify/58415215742700) (Jan 2023, Growth Tribe)
